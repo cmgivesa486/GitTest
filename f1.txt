@@ -2,3 +2,4 @@ test mail address : cmgi@takis.co.kr
 
 User Name : 그니그니
 User Code : cmgi
+User Number : 001
